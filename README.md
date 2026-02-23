@@ -1,3 +1,4 @@
+# Machine Learning Project | Classification | Customer Analytics
 # Customer-Churn-Telecom-ML
 This project predicts customer churn using Machine Learning models. The goal is to identify customers likely to leave so that businesses can take preventive action.
 # Telco Customer Churn dataset from kaggle.
